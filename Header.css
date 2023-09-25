@@ -1,0 +1,17 @@
+
+.title{
+font-size: 40px;
+font-family: 'Playfair Display SC', serif;
+margin-bottom: 30px;
+padding-right: 0px;
+padding-left: 189px;
+background-color: blueviolet;
+display: flex;
+flex-direction: row;
+
+
+}
+
+.nav-tools{
+display: flex;
+}
