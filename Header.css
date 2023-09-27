@@ -99,3 +99,10 @@ rgba(0, 0, 0, 0.04);
   margin-left: 6px;
   justify-content: center;
 }
+
+.subsection-text{
+background-color: aqua;
+padding: 20px;
+text-align: center;
+font-size: 18px;
+}
